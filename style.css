@@ -1,0 +1,81 @@
+.Home{
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1.5%;
+    background-color:yellowgreen;
+}
+body{
+    background-image: url(background1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.about{
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1.5%;
+    background-color:yellowgreen;
+}
+.logo{
+    float: left;
+}
+.navigation{
+    margin-left: 70%;
+}
+
+li{
+    display: inline-block;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
+nav{
+
+    padding: 1.5%;
+    background-color: yellow;
+}
+.Home{
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1.5%;
+    background-color:yellowgreen;
+}
+.ourservices{
+    margin-top: 3%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1.5%;
+    background-color:yellowgreen
+}
+.contact{
+    margin-top: 3%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1.5%;
+    background-color:yellowgreen
+}
+.us{
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1.5%;
+    background-color:yellowgreen
+}
+#navbarSupportedContent{
+    margin-left: 50%;   
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
+nav{
+    background-color: yellow;
+}
